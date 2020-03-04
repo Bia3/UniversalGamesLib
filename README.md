@@ -24,6 +24,7 @@ ___
 ___
 ## UI/UX
 #### Main Page / Start Page
+![Image of Main Page](https://raw.githubusercontent.com/Bia3/UniversalGamesLib/master/Artboards/Main%20Page.png)
 - Cards for each Game (no authentication required)
 - Cards have Image (poster from IGDB)
 #### Settings Page

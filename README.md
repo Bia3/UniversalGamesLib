@@ -28,7 +28,7 @@ ___
 - Cards for each Game (no authentication required)
 - Cards have Image (poster from IGDB)
 #### Settings Page
-![Image of Settings Page](https://raw.githubusercontent.com/Bia3/UniversalGamesLib/master/Artboards/Settings%20Page.png)
+![Image of Settings Page](https://raw.githubusercontent.com/Bia3/UniversalGamesLib/master/Artboards/Settings.png)
 - Authentication for each service that requires Authentication
 #### Game Page (For each Game)
 ![Image of Game Page](https://raw.githubusercontent.com/Bia3/UniversalGamesLib/master/Artboards/Game%20Page.png)

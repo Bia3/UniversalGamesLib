@@ -17,10 +17,10 @@ ___
 - Main DB (List of Games with links to Platform)
 - Separate Data Bases for each platform. (With Platform Specific info)
 - Search Option 
- - partial match for Name
- - Tag
- - Feature Search
- - Average Rating
+  - partial match for Name
+  - Tag
+  - Feature Search
+  - Average Rating
 ___
 ## UI/UX
 #### Main Page / Start Page

@@ -24,11 +24,14 @@ ___
 ___
 ## UI/UX
 #### Main Page / Start Page
+![Image of Main Page](https://raw.githubusercontent.com/Bia3/UniversalGamesLib/master/Artboards/Main%20Page.png)
 - Cards for each Game (no authentication required)
 - Cards have Image (poster from IGDB)
 #### Settings Page
+![Image of Settings Page](https://raw.githubusercontent.com/Bia3/UniversalGamesLib/master/Artboards/Settings.png)
 - Authentication for each service that requires Authentication
 #### Game Page (For each Game)
+![Image of Game Page](https://raw.githubusercontent.com/Bia3/UniversalGamesLib/master/Artboards/Game%20Page.png)
 - Media
  - Images
  - Screen Shots
@@ -38,6 +41,7 @@ ___
 - Owned Platforms
 - Feature List 54 
 #### Platform Page
+![Image of Platform Page](https://raw.githubusercontent.com/Bia3/UniversalGamesLib/master/Artboards/Platform%20Page.png)
 - Used for Owned Platforms
 - Any Script Options
 - Platform Specific Info

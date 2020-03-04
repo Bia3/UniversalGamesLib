@@ -33,9 +33,9 @@ ___
 #### Game Page (For each Game)
 ![Image of Game Page](https://raw.githubusercontent.com/Bia3/UniversalGamesLib/master/Artboards/Game%20Page.png)
 - Media
- - Images
- - Screen Shots
- - Videos
+  - Images
+  - Screen Shots
+  - Videos
 - Reviews
 - Available Platforms
 - Owned Platforms
@@ -45,14 +45,14 @@ ___
 - Used for Owned Platforms
 - Any Script Options
 - Platform Specific Info
- - Steam
-  - Platform
-  - Rating
-  - Store page links
- - Humble
-  - key/Platform
- - Hard Copy
-  - manually add info
+  - Steam
+    - Platform
+    - Rating
+    - Store page links
+  - Humble
+    - key/Platform
+  - Hard Copy
+    - manually add info
 ___
 ## Scripting
 (Linux/Mac/Windows)

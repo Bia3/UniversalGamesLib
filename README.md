@@ -7,6 +7,7 @@ ___
 - Humble
 - Steam
 #### More Options if has API
+- Epic Games
 - GOG
 - Twitch (If has API)
 - Sony Play Station Store
@@ -59,3 +60,5 @@ ___
 - Install (Steam/DRM free Humble)
 - Check Key (Humble)
 - Claim Keys
+## Future Features
+- Compare Libraries
